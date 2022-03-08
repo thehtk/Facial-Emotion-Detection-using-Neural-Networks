@@ -1,0 +1,2 @@
+# Facial-Emotion-Detection-using-Neural-Networks
+Facial Emotion Detection using Neural Networks has scope in many areas such as human computer interaction, biometric security provides insight into AI and ML that uses various supervised and unsupervised machine-learning algorithms to simulate the human brain. It play a very important role in nonverbal communication which appears due to internal feelings of a person that reflects on the faces and we determine it using this project.
